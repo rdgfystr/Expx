@@ -1,6 +1,6 @@
 {
-  "name": "abir-photo360-apis",
-  "version": "1.0.2",
+  "name": "nazrul-ephoto",
+  "version": "2.0.0",
   "description": "Unofficial API wrapper for generating ephoto360.com image effects",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MR-IMRAN-60/ephoto-apis"
+    "url": "https://github.com/rdgfystr/Expx/edit/main/package.json"
   },
   "keywords": [
     "ephoto",
@@ -17,7 +17,7 @@
     "imran-photo360-apis",
     "ephoto360"
   ],
-  "author": "IMRAN",
+  "author": "Nazrul",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MR-IMRAN-60/ephoto-apis/issues"
