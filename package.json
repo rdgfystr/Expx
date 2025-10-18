@@ -1,6 +1,6 @@
 {
-  "name": "abir-photo360-apis",
-  "version": "1.0.3",
+  "name": "nazrul-photo360-apis",
+  "version": "1.0.4",
   "description": "Unofficial API wrapper for generating ephoto360.com image effects",
   "main": "index.js",
   "scripts": {
