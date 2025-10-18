@@ -1,6 +1,6 @@
 {
   "name": "nazrul-photo360-apis",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Unofficial API wrapper for generating ephoto360.com image effects",
   "main": "index.js",
   "scripts": {
